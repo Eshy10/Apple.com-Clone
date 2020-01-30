@@ -13,7 +13,7 @@ To clone <a href="https://web.archive.org/web/20140301004610/http://www.apple.co
 
 
 # Live demo
-<a href="https://rawcdn.githack.com/Eshy10/Apple.com-Clone/6fcb54f536efdcd351552f7afc4a5ba5170188d8/index.html">Link</a>
+<a href="https://rawcdn.githack.com/Eshy10/Apple.com-Clone/da18a2998bc3d9ca6c6d0b17b4fe3ef5fea0b8a7/index.html">Link</a>
 
 
 # Contributing
