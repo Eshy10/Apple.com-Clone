@@ -71,3 +71,40 @@ border-right:2px solid grey;
     z-index: 1;
 }
 
+.header-images {
+    margin: 0;
+    padding: 0;
+    }
+    
+    .header-images img {
+        margin: auto;
+        display: block;
+       
+    }
+    
+    .header-link {
+        margin-top: -.5em;
+    
+    }
+    
+    .header-link a {
+        display: block;
+        color: white;
+        margin-top: 1em;
+        font-size: 24px;
+        text-decoration: none;
+        text-align: center;
+       
+    }
+    
+    .header-images a:hover {
+        text-decoration: underline;
+    }
+    
+    .subtitle-icon {
+        float: right;
+        padding-right: 23rem;
+        margin-top: -1.6em;
+    }
+    
+
