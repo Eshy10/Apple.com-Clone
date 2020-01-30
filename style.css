@@ -168,7 +168,7 @@ header {
   padding-right: 0.5em;
 }
 
-@media only screen and (min-height: 657px) {
+@media only screen and (max-height: 657px) {
   .nav-bar {
     display: flex;
     justify-content: center;
