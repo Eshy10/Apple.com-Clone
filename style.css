@@ -11,7 +11,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 40vh;
+  height: 30vh;
 }
 
 .nav-bar ul {
@@ -163,4 +163,13 @@ header {
 .last-footer-links .last-link1 {
   border-right: 1px solid rgb(177, 168, 168);
   padding-right: .5em;
+}
+
+@media only screen and (min-height: 657px) {
+  .nav-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+  }
 }
