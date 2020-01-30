@@ -106,5 +106,15 @@ border-right:2px solid grey;
         padding-right: 23rem;
         margin-top: -1.6em;
     }
+
+    .product-images ul {
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .product-images img {
+        width: 100%;
+    }
     
 
